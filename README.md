@@ -1,8 +1,6 @@
-# WashOS - Mini Laundry Order Management System
+# SAFAI - Mini Laundry Order Management System
 
 A sleek, premium, AI-assisted web application for managing dry cleaning orders, built as an assignment over a 72-hour period.
-
-![WashOS Demo](https://via.placeholder.com/1200x600.png?text=WashOS+Mini+Laundry+Management+System)
 
 ## 🚀 Setup Instructions
 
